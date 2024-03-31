@@ -1,17 +1,11 @@
 {
-  "name": "@ant-design/colors",
-  "version": "7.0.2",
-  "description": "Color palettes calculator of Ant Design",
-  "homepage": "https://github.com/ant-design/ant-design-colors#readme",
-  "bugs": {
-    "url": "https://github.com/ant-design/ant-design-colors/issues"
-  },
+  "name": "@requestly/colors",
+  "version": "1.0.0",
+  "description": "Color palettes calculator of RQ Design",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ant-design/ant-design-colors.git"
+    "url": "git+https://github.com/requestly/rq-design-colors.git"
   },
-  "license": "MIT",
-  "author": "afc163 <afc163@gmail.com>",
   "main": "./lib/index",
   "module": "./es/index",
   "typings": "es/index.d.ts",

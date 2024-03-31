@@ -5,7 +5,7 @@ const saturationStep = 0.16; // 饱和度阶梯，浅色部分
 const saturationStep2 = 0.05; // 饱和度阶梯，深色部分
 const brightnessStep1 = 0.05; // 亮度阶梯，浅色部分
 const brightnessStep2 = 0.15; // 亮度阶梯，深色部分
-const lightColorCount = 5; // 浅色数量，主色上
+const lightColorCount = 4; // 浅色数量，主色上
 const darkColorCount = 4; // 深色数量，主色下
 // 暗色主题颜色映射关系表
 const darkColorMap = [
